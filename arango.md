@@ -1,0 +1,2 @@
+This database product is called ArangoDB and the associated website is 'arangodb.com'. This is an open-source product and the data model is Graphs. The hosting model is cloud but also supports self-hosting and managed hosting. Java accesses this database product with the official ArangoDB Java driver and is downloaded from the website as a Java library. 
+Reference: [https://www.arangodb.com/](https://www.arangodb.com/)
