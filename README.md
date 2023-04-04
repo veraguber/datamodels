@@ -6,6 +6,6 @@ Listing of 8 database products not covered by INFO 330
 * IMS Database Manager: ims.md
 * Amazon DynamoDB: dynamo.mb
 * PostgreSQL: postgre.md
-* .md
+* ArangoDB: arango.md
 * .md
 * Integrated Data Storage (extra credit): ids.md
