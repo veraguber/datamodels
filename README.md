@@ -5,7 +5,7 @@ Listing of 8 database products not covered by INFO 330
 * Oracle Cloud: oracle.md
 * IMS Database Manager: ims.md
 * Amazon DynamoDB: dynamo.mb
-* Ingres Database: ingres.md
+* Ingres Database: ingres.md (extra credit)
 *
 *
 *
