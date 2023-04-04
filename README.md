@@ -8,4 +8,4 @@ Listing of 8 database products not covered by INFO 330
 * PostgreSQL: postgre.md
 *
 *
-* Ingres Database (extra credit): ingres.md
+* Integrated Data Storage (extra credit): ids.md
