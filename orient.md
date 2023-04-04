@@ -1,0 +1,2 @@
+This database product is called OriendDB and the associated website is 'orientdb.org". The hosting model is multi-model which includes Documents, Graphs, and Object data models. This is an open-source product and the hosting model is either self-hosted(local), managed, cloud or hybrid. Java accesses this database product through the official OriendDB API which can be found online. 
+Reference: [orientdb.org](orientdb.org)
