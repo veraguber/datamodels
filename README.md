@@ -4,7 +4,7 @@ Listing of 8 database products not covered by INFO 330
 * DbVizualiser: dbvisualizer.md
 * Oracle Cloud: oracle.md
 * IMS Database Manager: ims.md
-*
+* Amazon DynamoDB: dynamo.mb
 *
 *
 *
