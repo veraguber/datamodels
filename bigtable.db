@@ -1,0 +1,2 @@
+The name of this product is BigTable and the associated website is Google Cloud. This is an open source product, and the data model is column. The hosting model is in the cloud and the way Java accesses it is through the Google Cloud BigTable library in the Google Cloud Client Libraries for Java. 
+Reference: [https://cloud.google.com/bigtable/docs/samples-java-hello-world](https://cloud.google.com/bigtable/docs/samples-java-hello-world)
