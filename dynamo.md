@@ -1,0 +1,1 @@
+This product is called Amazon DynamoDB and the associate website is 'aws.amazon.com'. This is a key-value pair data model and is commercial. The hosting model is in the cloud, more specifically in the Amazon Virtual Private Cloud. Java accesses this database product through the console.
