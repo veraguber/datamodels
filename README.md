@@ -7,5 +7,5 @@ Listing of 8 database products not covered by INFO 330
 * Amazon DynamoDB: dynamo.mb
 * PostgreSQL: postgre.md
 * ArangoDB: arango.md
-* .md
+* OrientDB: orient.md
 * Integrated Data Storage (extra credit): ids.md
