@@ -1,0 +1,1 @@
+The name of this database product is Oracle RDBMS and the associated website is 'oracle.com'. This product has open source options but also has commercial and third party purchase options. The data model is relational. The hosting model is in the cloud. For Java to access it, there needs to be a driver library downloaded in order to establish a connection.
